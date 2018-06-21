@@ -2,3 +2,4 @@
 
 * [http://pythonclub.com.br/selenium-parte-1.html]('Basico')
 * [https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python]('rolando a pagina em sites de scroll infinito')
+* [https://www.softwaretestinghelp.com/handle-alerts-popups-selenium-webdriver-selenium-tutorial-16/]('Lidando com alerts)
